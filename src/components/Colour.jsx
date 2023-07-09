@@ -12,28 +12,29 @@ export const Colour = () => {
             </p>
 
 
-            <div className='flex md:space-x-5 justify-center'>
+            <div className='flex md:space-x-5 justify-center text-center'>
 
 
-                <div className='w-full md:w-60 p-5 rounded-xl shadow-xl shadow-violet-100'>
-                    <img src={work} alt="" className="max-h-60" />
+                <div className='w-full md:w-60 p-2 md:p-5 rounded-xl shadow-xl shadow-violet-100'>
+                    <img src={work} alt="" className="max-h-30" />
 
                     <p className='mt-5 text-xs md:text-sm'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elitd numquam nam?
+                        Lorem ipsum dolor sit amet consectetur nam?
                     </p>
                 </div>
-                <div className='w-full md:w-60 p-5 rounded-xl shadow-xl shadow-violet-100'>
-                    <img src={wfh} alt="" className="max-h-60" />
+
+                <div className='w-full md:w-60 p-2 md:p-5 rounded-xl shadow-xl shadow-violet-100'>
+                    <img src={wfh} alt="" className="max-h-30" />
 
                     <p className='mt-5 text-xs md:text-sm'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elitd numquam nam?
+                        Lorem ipsum dolor sit amet consectef fm nam?
                     </p>
                 </div>
-                <div className='w-full md:w-60 p-5 rounded-xl shadow-xl shadow-violet-100'>
-                    <img src={free} alt="" className="max-h-60" />
+                <div className='w-full md:w-60 p-2 md:p-5 rounded-xl shadow-xl shadow-violet-100'>
+                    <img src={free} alt="" className="max-h-30" />
 
                     <p className='mt-5 text-xs md:text-sm'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elitd numquam nam?
+                        Lorem ipsum dolor sit amet consecmquam nam?
                     </p>
                 </div>
 
