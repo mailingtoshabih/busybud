@@ -4,7 +4,7 @@ import { About } from '../components/About'
 import { Colour } from '../components/Colour'
 import { Snake } from '../components/Snake'
 import { Testimonials } from '../components/Testimonials'
-import { Partners } from '../components/PArtners'
+import { Partners } from '../components/Partners'
 import { Footer } from '../components/Footer'
 
 
